@@ -1,0 +1,3 @@
+01,Jack Turner,2006-02-11,18,48.7,48,Third
+02,Lewis Cowle,2005-02-26,19,73.7,75,First
+03,Ned Richardson,2006-05-04,18,99,100,Aurum Standard
